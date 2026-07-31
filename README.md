@@ -3,18 +3,19 @@
 PhD Researcher @NTNU | Data-driven Control & ML for Building Energy Systems
 
 ## About
-- 🎓 PhD Energy & Process Engineering @NTNU (Prof. Laurent Georges)
-- 🔬 MSc Control Engineering @Isfahan University (Ranked 3rd/15)
-- 🤖 Expertise: Robust control, ML, reinforcement learning, optimal control
-- 🌍 Trondheim, Norway
+- PhD Energy & Process Engineering @NTNU (Prof. Laurent Georges)
+- MSc Electrical Engineering, Control @Isfahan University of Technology (Ranked 3rd/15)
+- BSc Electrical Engineering, Power @Shahrekord University (Ranked 1st/24)
+- Expertise: Robust control, ML, reinforcement learning, optimal control
+- Trondheim, Norway
 
 ## Currently Working On
-- Brain Emotional Learning-Based Intelligent Controller (BELBIC)
-- Deep learning for building HVAC optimization
-- Data-driven control algorithms
+- Model Predictive Control (MPC) for HVAC Energy Management.
+- Physics-Informed Neural Networks (PINNs) to model building HVAC systems
+- Data-driven control algorithms 
 
 ## Tech
-Python • MATLAB • PyTorch • Control Theory • Git
+Python • MATLAB • PyTorch • Docker • DeepXDE • Git • Modelica • BOPTEST
 
 ## 📚 Find Me
 - **Portfolio:** [alirezanez.github.io](https://alirezanez.github.io)
