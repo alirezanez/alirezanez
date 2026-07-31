@@ -10,7 +10,7 @@ PhD Researcher @NTNU | Data-driven Control & ML for Building Energy Systems
 - Trondheim, Norway
 
 ## Currently Working On
-- Model Predictive Control (MPC) for HVAC Energy Management.
+- Model Predictive Control (MPC) for HVAC Energy Management
 - Physics-Informed Neural Networks (PINNs) to model building HVAC systems
 - Data-driven control algorithms 
 
